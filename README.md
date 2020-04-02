@@ -1,6 +1,6 @@
 # Gamblers-Ruin-Simulation
 
-Simple calculation for the number of coinflips (Heads/Tails) a gambler could perform starting at a balance of $3 until they go broke. 
+Simple simulation for the number of coinflips (Heads/Tails) a gambler could perform starting at a balance of $5 until they go broke. 
 - With each heads flip, a dollar is added to their balance
 - With each tails flip, a dollar is subtracted from their balance
 
